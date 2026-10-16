@@ -20,4 +20,5 @@
 
 *Fortnite 7.3/10*
 
-
+# Shrnutí
+<p>Na internetu jsou hodně hry, ale jenom ty hry, které mají popularitů jsou více rozsířený</p>
