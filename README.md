@@ -1,7 +1,7 @@
 # Oblibeny hry
--                   Rainbow six siege
+-                   **Rainbow six siege**
   ![tt](image/FN.webp)
--                   Minecraft
+-                   *Minecraft*
  ![tt](image/LN.webp)
 
 
