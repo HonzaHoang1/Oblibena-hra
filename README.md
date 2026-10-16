@@ -14,7 +14,10 @@
 [Minulost hry](https://en.wikipedia.org/wiki/History_of_games)
 <h1>Rating her</h1> 
 <strong>Rainbow six siege 8/10 </strong>
+<br>
 <strong>Minecraft 9.8/10</strong>
+<br>
+
 *Fortnite 7.3/10*
 
 
