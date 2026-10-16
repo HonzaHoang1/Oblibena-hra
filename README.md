@@ -1,4 +1,4 @@
 # Oblibeny hry
 - Minecraft
-  ![Moje logo](images/FN.webp)
+  ![tt](image/FN.webp)
 - 
