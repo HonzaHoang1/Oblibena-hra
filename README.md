@@ -12,7 +12,7 @@
 - Street fighter
 
 [Minulost hry](https://en.wikipedia.org/wiki/History_of_games)
-**Rating her**
+- **Rating her**
 *Rainbow six siege* 8/10
 *Minecraft* 9.8/10
 *Fortnite* 7.3/10
