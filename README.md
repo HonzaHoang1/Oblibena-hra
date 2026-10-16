@@ -1,5 +1,5 @@
 # Oblibeny hry
 - Minecraft
-![Moje logo](OIP.png)
+![Moje logo](OIP(1).webp)
 
 - 
